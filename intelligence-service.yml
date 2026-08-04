@@ -1,0 +1,13 @@
+server:
+  port: 9030
+  servlet.context-path: /intelligence
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:9010/lovable-intelligence-db
+    username: user
+    password: Kartikay#05
+    driver-class-name: org.postgresql.Driver
+
+  
+    
