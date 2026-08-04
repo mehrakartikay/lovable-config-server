@@ -11,7 +11,7 @@ spring:
   ai:
     openai:
       api-key: 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
-      base-url: https://openrouter.ai/api/v1
+      base-url: https://openrouter.ai/api
       chat:
         options:
           model: poolside/laguna-s-2.1:free
