@@ -10,12 +10,12 @@ spring:
     driver-class-name: org.postgresql.Driver
   ai:
     openai:
-      api-key: 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
+      api-key: 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
       base-url: https://openrouter.ai/api/v1
       chat:
         options:
-          model: poolside/laguna-m.1:free
-          temperature: 0.0
+          model: poolside/laguna-s-2.1:free
+          temperature: 0.2
 
 
     
