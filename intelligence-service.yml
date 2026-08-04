@@ -8,6 +8,17 @@ spring:
     username: user
     password: Kartikay#05
     driver-class-name: org.postgresql.Driver
+  ai:
+    openai:
+      api-key: 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
+      base-url: https://openrouter.ai/api
+      chat:
+        options:
+          model: poolside/laguna-m.1:free
+          temperature: 0.0
+
+
+    
 
   
     
