@@ -40,7 +40,7 @@ app:
     url: http://localhost:8080/frontend
   preview:
     domain: localhost
-    namespace: shuttle-apps
+    namespace: my-lovable
     proxy-port: 8090
 
 management:
